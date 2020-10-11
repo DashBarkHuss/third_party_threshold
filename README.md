@@ -10,4 +10,6 @@ This chart shows the effect your vote has on the third party threshold if you vo
 
 The math is mapped out [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to recalculate the numbers.
 
-## See the [Third Party 5% Threshold Map Chart](https://dashbarkhuss.github.io/third_party_threshold/) here
+## See the _interactive_ [Third Party 5% Threshold Map Chart](https://dashbarkhuss.github.io/third_party_threshold/) here
+
+<a href="https://dashbarkhuss.github.io/third_party_threshold/"><img src = 'map.png'></a>
