@@ -8,7 +8,7 @@ Minor parties receive government matching funds. This would throw a wrench into 
 
 This chart shows the effect your vote has on the third party threshold if you vote third party vs the effect your vote has on the presidential outcome if you vote for a major party.
 
-The math is mapped out [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to recalculate the numbers.
+The math is [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to recalculate the numbers.
 
 ## Click here to see the _interactive_ [Third Party 5% Threshold Map Chart](https://dashbarkhuss.github.io/third_party_threshold/)
 
