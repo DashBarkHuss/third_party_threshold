@@ -75,6 +75,6 @@ fetch("https://unpkg.com/us-atlas/states-10m.json")
       const result = results.find((r) => r.state == x.feature.properties.name);
       x.value = `Your vote counts ${Math.round(
         result.vp5toVp
-      )} times more when you vote for a 3rd party than when you vote for the presidential outcome.`;
+      )} times more when you vote for a 3rd party towards the 5% threshold than when you vote for a major party towards the presidential outcome.`;
     });
   });
