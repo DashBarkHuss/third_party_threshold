@@ -34,7 +34,7 @@ fetch("https://unpkg.com/us-atlas/states-10m.json")
           datasets: [
             {
               label:
-                "How Much A 3rd Party Vote Has An Effect by State Compared to A Ma`jor Party Vote",
+                "How Much A 3rd Party Vote Has An Effect by State Compared to A Major Party Vote",
               outline: nation,
               data: states.map((d, i) => {
                 const stateName = d.properties.name;
