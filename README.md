@@ -8,7 +8,7 @@ Minor parties receive government matching funds. This would throw a wrench into 
 
 This chart shows the effect your vote has on the third party threshold if you vote third party vs the effect your vote has on the presidential outcome if you vote for a major party.
 
-The results showed that in **_every state a 3rd party vote had a greater effect_** than a major party vote. That map shows how much more of an effect.
+The results showed that in **_every state a 3rd party vote had a greater effect_** compared to a major party vote. This map shows how much more of an effect.
 
 The math is [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to recalculate the numbers.
 
