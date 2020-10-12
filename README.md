@@ -24,7 +24,7 @@ _(Works best on **desktop**)_
 
 In every state, 1 vote has a greater effect on the 5% third party threshold than it does on the presidential outcome. The degree of this effect varies by state. In the most extreme, a Massachusetts 3rd party vote is 1194 times more powerful than a major party vote. In the least extreme, a Georgia 3rd party vote is 21 times more powerful a major party vote.
 
-**Still, it can be argued that voting 3rd party is more statistically practical in any state than voting for a major party** in the case that one values breaking up the current two party system.
+**From the results, voting 3rd party is more statistically practical in any state than voting for a major party** in the case that one values breaking up the current two party system.
 
 | State                | How many times greater your vote counts if you vote 3rd party than if you vote for a major party. |
 | -------------------- | ------------------------------------------------------------------------------------------------- |
