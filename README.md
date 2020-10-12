@@ -10,7 +10,7 @@ This chart shows the effect your vote has on the third party threshold if you vo
 
 The results showed that in **_every state a 3rd party vote had a greater effect_** compared to a major party vote. This map shows how much more of an effect.
 
-The math is [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to recalculate the numbers.
+The math is [here](https://docs.google.com/spreadsheets/d/1dkdP6XKCyUQYSHoqEduG3TvNgM2E2eSzxIs5VjKxFuc/edit?usp=sharing). Please fork the repo and copy the spreadsheet if you'd like to calculate the results differently.
 
 ## Click here to see the _interactive_ [Third Party 5% Threshold Map](https://dashbarkhuss.github.io/third_party_threshold/)
 
